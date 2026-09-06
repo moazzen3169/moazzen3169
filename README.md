@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Hadi Moazzen
 
-### Front-End Developer · JavaScript Enthusiast
+### Front-End Developer · JavaScript & React Enthusiast
 
 I build **clean, responsive and interactive web experiences**
-with a strong focus on JavaScript and modern Front-End development.
+using modern Front-End technologies with a strong focus on **JavaScript and React**.
 
 <br>
 
@@ -27,19 +27,36 @@ const hadi = {
   role: "Front-End Developer",
   experience: "2+ years",
   location: "Tabriz, Iran",
-  mainFocus: "JavaScript",
+
+  mainFocus: [
+    "JavaScript",
+    "React.js",
+    "Modern Front-End Development"
+  ],
+
   interests: [
     "Web Development",
     "Responsive UI",
-    "Interactive Experiences"
+    "Interactive Experiences",
+    "Front-End Architecture"
   ],
-  currentlyLearning: "Modern Front-End Development"
+
+  tools: [
+    "Vite",
+    "Docker",
+    "Git",
+    "GitHub"
+  ],
+
+  currentlyLearning: "Advanced React & Modern Web Development"
 };
 ```
 
-I'm a Front-End Developer with **2+ years of experience** building websites and interactive web interfaces.
+I'm a **Front-End Developer** with **2+ years of experience** building websites and interactive web interfaces.
 
-I enjoy turning ideas into **clean, responsive and user-friendly experiences** and I'm particularly passionate about JavaScript.
+I'm passionate about creating **clean, responsive and maintainable applications**, with a strong focus on **JavaScript, React.js and modern Front-End development**.
+
+I enjoy turning ideas into intuitive user experiences and continuously improving my development workflow and code quality.
 
 ---
 
@@ -48,13 +65,13 @@ I enjoy turning ideas into **clean, responsive and user-friendly experiences** a
 ### Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-### Tools & Workflow
+### Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ---
@@ -62,9 +79,12 @@ I enjoy turning ideas into **clean, responsive and user-friendly experiences** a
 ## 🎯 Current Focus
 
 ```text
-▸ Improving JavaScript & Front-End architecture
-▸ Building better responsive interfaces
-▸ Writing cleaner and more maintainable code
+▸ Building modern applications with React.js
+▸ Improving JavaScript & React architecture
+▸ Building scalable and responsive interfaces
+▸ Using Vite for modern Front-End tooling
+▸ Containerizing applications with Docker
+▸ Writing clean, maintainable and reusable code
 ▸ Exploring modern web development techniques
 ```
 
@@ -121,7 +141,7 @@ Modern Front-End project focused on responsive design and user experience.
 
 ### 🌐 Depix
 
-A web project and my personal online portfolio.
+My personal portfolio and web project showcasing my Front-End work and skills.
 
 **Built with**
 
@@ -164,6 +184,20 @@ A dashboard-oriented Front-End project focused on interface design and usability
 
 ---
 
+# 🧰 Development Workflow
+
+I'm continuously improving not only my Front-End skills, but also the way I build, manage and deploy applications.
+
+```text
+React.js     → Building modern component-based UIs
+Vite.js      → Fast and modern development tooling
+Tailwind CSS → Responsive and utility-first styling
+Git/GitHub   → Version control & collaboration
+Docker       → Containerization & development environments
+```
+
+---
+
 # 📈 GitHub Activity
 
 <div align="center">
@@ -188,11 +222,12 @@ A dashboard-oriented Front-End project focused on interface design and usability
 
 <table>
 <tr>
+
 <td>
 
 ### 🎨 UI & UX
 
-Creating interfaces that are simple, responsive and enjoyable to use.
+Creating interfaces that are **simple, responsive and enjoyable to use**.
 
 </td>
 
@@ -200,7 +235,7 @@ Creating interfaces that are simple, responsive and enjoyable to use.
 
 ### ⚡ Performance
 
-Writing efficient Front-End code and keeping experiences fast.
+Building efficient Front-End applications and keeping user experiences fast.
 
 </td>
 
@@ -208,11 +243,33 @@ Writing efficient Front-End code and keeping experiences fast.
 
 ### 🧹 Clean Code
 
-Keeping projects maintainable, readable and easy to improve.
+Writing **readable, reusable and maintainable code** that is easy to scale.
 
 </td>
+
 </tr>
 </table>
+
+---
+
+## 📚 Currently Learning
+
+```text
+React.js
+   ├── Component Architecture
+   ├── State Management
+   ├── Reusable Components
+   └── Modern React Patterns
+
+Vite.js
+   ├── Modern Build Tooling
+   └── Front-End Development Workflow
+
+Docker
+   ├── Containerization
+   ├── Development Environments
+   └── Application Deployment
+```
 
 ---
 
