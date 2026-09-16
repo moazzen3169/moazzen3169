@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Hadi Moazzen
 
-### Front-End Developer · JavaScript & React.js Enthusiast
+### Front-End Developer · JavaScript, React.js & Next.js Enthusiast
 
 I build **clean, responsive and interactive web experiences**
-with a strong focus on JavaScript, React.js and modern Front-End development.
+with a strong focus on JavaScript, React.js, Next.js and modern Front-End development.
 
 <br>
 
@@ -27,7 +27,7 @@ with a strong focus on JavaScript, React.js and modern Front-End development.
 |                     |                                         |
 | ------------------- | --------------------------------------- |
 | 💻 **Role**         | Front-End Developer                     |
-| ⚛️ **Core**         | JavaScript · React.js                   |
+| ⚛️ **Core**         | JavaScript · React.js · Next.js         |
 | 🛠️ **Tools**       | Vite · Tailwind CSS · Git · Docker      |
 | 🎨 **Focus**        | UI/UX · Responsive Design · Performance |
 | 🧩 **Architecture** | Component-Based & Reusable Code         |
@@ -38,7 +38,7 @@ with a strong focus on JavaScript, React.js and modern Front-End development.
 
 <br>
 
-> I build **clean, responsive and interactive web experiences** with a strong focus on JavaScript, React.js and modern Front-End development.
+> I build **clean, responsive and interactive web experiences** with a strong focus on JavaScript, React.js, Next.js and modern Front-End development.
 
 ---
 
@@ -47,7 +47,7 @@ with a strong focus on JavaScript, React.js and modern Front-End development.
 ### Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwind" />
 </p>
 
 ### Tools & Workflow
@@ -61,10 +61,11 @@ with a strong focus on JavaScript, React.js and modern Front-End development.
 ## 🎯 Current Focus
 
 ```text
-▸ Building modern applications with React.js
-▸ Improving JavaScript & React architecture
+▸ Building modern applications with React.js & Next.js
+▸ Improving JavaScript, React & Next.js architecture
 ▸ Building scalable and responsive interfaces
 ▸ Creating reusable and maintainable components
+▸ Using Next.js for modern full-stack web applications
 ▸ Using Vite for modern Front-End tooling
 ▸ Working with Docker for containerized environments
 ▸ Improving performance and user experience
@@ -177,6 +178,7 @@ efficient, maintainable and scalable Front-End applications.
 | Technology          | Purpose                                |
 | ------------------- | -------------------------------------- |
 | ⚛️ **React.js**     | Component-based UI development         |
+| ▲ **Next.js**       | Modern React framework & web apps      |
 | ⚡ **Vite.js**       | Fast development & build tooling       |
 | 🎨 **Tailwind CSS** | Responsive and utility-first styling   |
 | 🐙 **Git & GitHub** | Version control & collaboration        |
@@ -232,6 +234,12 @@ React.js
    ├── State Management
    ├── Reusable Components
    └── Modern React Patterns
+
+Next.js
+   ├── App Router
+   ├── Server & Client Components
+   ├── Server-Side Rendering
+   └── Modern Next.js Patterns
 
 Vite.js
    ├── Modern Build Tooling
