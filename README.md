@@ -28,7 +28,7 @@ with a strong focus on JavaScript, React.js, Next.js and modern Front-End develo
 | ------------------- | --------------------------------------- |
 | 💻 **Role**         | Front-End Developer                     |
 | ⚛️ **Core**         | JavaScript · React.js · Next.js         |
-| 🛠️ **Tools**       | Vite · Tailwind CSS · Git · Docker      |
+| 🛠️ **Tools**       | Next · Tailwind CSS · Git · Docker      |
 | 🎨 **Focus**        | UI/UX · Responsive Design · Performance |
 | 🧩 **Architecture** | Component-Based & Reusable Code         |
 | 🚀 **Experience**   | 2+ Years                                |
